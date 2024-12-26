@@ -1,0 +1,14 @@
+scikit-learn
+nltk
+gensim
+fasttext
+keras
+transformers
+pandas
+
+
+
+
+
+
+
